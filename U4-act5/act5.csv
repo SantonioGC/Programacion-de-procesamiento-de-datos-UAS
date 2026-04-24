@@ -1,0 +1,9 @@
+Sensor_ID,Consumo_kwh,Horas_Activo,Nivel_Consumo,Eficiencia_kwh_h
+S1,12.5,5,Bajo,2.5
+S2,45.0,24,Alto,1.875
+S1,18.2,8,Bajo,2.275
+S3,9.1,4,Bajo,2.275
+S2,38.5,20,Medio,1.925
+S3,11.4,5,Bajo,2.2800000000000002
+S1,15.6,7,Bajo,2.2285714285714286
+S2,42.1,22,Alto,1.9136363636363638
